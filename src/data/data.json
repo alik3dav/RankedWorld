@@ -1,0 +1,105 @@
+{
+  "adminPassword": "admin123",
+  "richestPeople": [
+    {
+      "id": 1,
+      "name": "Bernard Arnault",
+      "netWorth": "215.3B",
+      "company": "LVMH",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=200&h=200",
+      "age": 74,
+      "nationality": "French",
+      "industry": "Luxury Goods",
+      "yearlyChange": "+$23.5B"
+    },
+    {
+      "id": 2,
+      "name": "Elon Musk",
+      "netWorth": "195.3B",
+      "company": "Tesla, SpaceX",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=200&h=200",
+      "age": 52,
+      "nationality": "American",
+      "industry": "Automotive, Space",
+      "yearlyChange": "-$18.7B"
+    },
+    {
+      "id": 3,
+      "name": "Jeff Bezos",
+      "netWorth": "185.8B",
+      "company": "Amazon",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=200&h=200",
+      "age": 59,
+      "nationality": "American",
+      "industry": "E-commerce, Technology",
+      "yearlyChange": "+$15.2B"
+    }
+  ],
+  "richestCountries": [
+    {
+      "id": 1,
+      "name": "Luxembourg",
+      "gdpPerCapita": "118,001",
+      "flag": "🇱🇺",
+      "population": "632,000",
+      "continent": "Europe",
+      "yearlyGrowth": "3.2%",
+      "mainIndustries": "Financial Services, Steel"
+    },
+    {
+      "id": 2,
+      "name": "Singapore",
+      "gdpPerCapita": "94,100",
+      "flag": "🇸🇬",
+      "population": "5.6M",
+      "continent": "Asia",
+      "yearlyGrowth": "3.6%",
+      "mainIndustries": "Finance, Manufacturing"
+    },
+    {
+      "id": 3,
+      "name": "Ireland",
+      "gdpPerCapita": "94,556",
+      "flag": "🇮🇪",
+      "population": "5.0M",
+      "continent": "Europe",
+      "yearlyGrowth": "12.2%",
+      "mainIndustries": "Technology, Pharmaceuticals"
+    }
+  ],
+  "mostFollowed": [
+    {
+      "id": 1,
+      "name": "Cristiano Ronaldo",
+      "followers": "615M",
+      "platform": "Instagram",
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&q=80&w=200&h=200",
+      "occupation": "Footballer",
+      "nationality": "Portuguese",
+      "yearlyGrowth": "+75M",
+      "engagementRate": "2.5%"
+    },
+    {
+      "id": 2,
+      "name": "Lionel Messi",
+      "followers": "493M",
+      "platform": "Instagram",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=200&h=200",
+      "occupation": "Footballer",
+      "nationality": "Argentine",
+      "yearlyGrowth": "+103M",
+      "engagementRate": "3.1%"
+    },
+    {
+      "id": 3,
+      "name": "Selena Gomez",
+      "followers": "429M",
+      "platform": "Instagram",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=200&h=200",
+      "occupation": "Singer, Actress",
+      "nationality": "American",
+      "yearlyGrowth": "+45M",
+      "engagementRate": "4.2%"
+    }
+  ]
+}
