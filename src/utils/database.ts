@@ -2,9 +2,9 @@ import fs from 'fs';
 import path from 'path';
 
 // const DB_PATH = path.join(process.cwd(), 'src/data/data.json');
-const DB_PATH = '/src/data/data.json';
+// const DB_PATH = '/src/data/data.json';
 // Ensure this code is only used in server-side logic
-// const DB_PATH = path.join(process.cwd(), 'src/data/data.json');
+const DB_PATH = path.join(process.cwd(), 'src/data/data.json');
 
 export const readDatabase = () => {
   try {
